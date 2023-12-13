@@ -1,11 +1,3 @@
-;*******************************************************************************
-; UFSC- Universidade Federal de Santa Catarina
-; Projeto: primeiro exemplo de programa??o assembler para PIC
-; Autor: Roderval Marcelino
-; Pisca Led com delay
-;*******************************************************************************
-
-    
 #include <P16F877A.INC> 	; Arquivo de include do uC usado, no caso PIC16F877A
 
 ; Palavra de configura??o, desabilita e habilita algumas op??es internas
